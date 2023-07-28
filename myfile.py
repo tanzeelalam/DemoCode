@@ -4,3 +4,4 @@ print("Allah haafiz")
 print("AFTER")
 
 print("1")
+print("2")
